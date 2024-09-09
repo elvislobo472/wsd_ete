@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.dis_img { 
+    text-align: center;
+}
+
+
+#imgContent {
+    margin-top: 20px;
+}
+
+
+#ranImg {
+    max-width: 500px;
+    height: 500px;
+    border: 5px double #cdcbcb;
+    border-radius: 10px;
+}
